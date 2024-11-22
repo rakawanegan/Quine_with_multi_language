@@ -1,0 +1,1 @@
+var q=String.fromCharCode(34);var s="var q=String.fromCharCode(34);var s=%q%s%q;console.log(s.replace('%q%s%q',q+s+q))";console.log(s.replace('%q%s%q',q+s+q))
